@@ -1,0 +1,27 @@
+Start: Sun, 15 Feb 2015 07:22:09 -0600 
+End: Sun, 15 Feb 2015 07:22:09 -0600 
+Tasks: Completed testing 
+
+Start: Sun, 15 Feb 2015 04:29:11 -0600 
+End: Sun, 15 Feb 2015 04:29:11 -0600 
+Tasks: Updated log 
+
+Start: Sun, 15 Feb 2015 04:26:43 -0600 
+End: Sun, 15 Feb 2015 04:26:43 -0600 
+Tasks: Removed database.php, renamed it to functions.php 
+
+Start: Sun, 15 Feb 2015 04:25:01 -0600 
+End: Sun, 15 Feb 2015 04:25:01 -0600 
+Tasks: Completed initial work on index.php and functions.php 
+
+Start: Sun, 15 Feb 2015 01:35:21 -0600 
+End: Sun, 15 Feb 2015 01:35:21 -0600 
+Tasks: Updated log 
+
+Start: Sun, 15 Feb 2015 01:33:35 -0600 
+End: Sun, 15 Feb 2015 01:33:35 -0600 
+Tasks: Added initial files 
+
+Start: Sat, 14 Feb 2015 22:55:18 -0600 
+End: Sat, 14 Feb 2015 22:55:18 -0600 
+Tasks: :octocat: Added .gitattributes & .gitignore files 

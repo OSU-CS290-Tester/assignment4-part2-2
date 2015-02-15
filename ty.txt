@@ -5,3 +5,7 @@ Tasks: Added initial files
 Start: Sun, 15 Feb 2015 01:35:00 -0600
 End: Sun, 15 Feb 2015 04:25:01 -0600
 Completed initial work on index.php and functions.php
+
+Start: Sun, 15 Feb 2015 04:25:01 -0600
+End: Sun, 15 Feb 2015 07:22:09 -0600
+Completed testing
