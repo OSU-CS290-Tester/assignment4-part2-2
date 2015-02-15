@@ -23,7 +23,7 @@ function deleteVideo($id, $mysqli) {
 
 //delete all videos
 function deleteAll($mysqli) {
-    return $mysqli->query("DELETE FROM Video WHERE;");
+    return $mysqli->query("DELETE FROM Video;");
 }
 
 //rents a video
@@ -39,5 +39,15 @@ function returnVideo($id, $mysqli) {
 //Categories list
 function getCategory($mysqli) {
     return $mysqli->query("SELECT DISTINCT category FROM Video WHERE category != '';");
+}
+
+//Filter list
+function filter($mycategory, $mysqli) {
+	if ($mycategory == "all") {
+		return $mysqli->query("SELECT * FROM Video;");
+	}
+	else {
+		return $mysqli->query("SELECT * FROM Video WHERE category = '$mycategory';");
+	}
 }
 ?>
